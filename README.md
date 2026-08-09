@@ -27,10 +27,6 @@ Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estuda
 ### 🧮 [Calculadora de Impostos](https://github.com/lbarbosa04/calculadoraDeImpostos)
 Aplicações web para simulação de cálculo de impostos nos regimes de **Lucro Real** e **Lucro Presumido**, desenvolvidas com HTML, CSS e JavaScript puro — unindo conhecimento técnico da área fiscal com lógica de programação.
 
-## 📊 Estatísticas do GitHub
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbarbosa04&show_icons=true&theme=default)
-
 ## 💡 Um pouco da minha trajetória
 
 Passei os últimos anos apurando impostos, lidando com prazos, ERP e planilhas de conferência — e percebi que o que mais gostava no trabalho era resolver problemas e otimizar processos. Isso me levou naturalmente para a programação: hoje estou construindo minha base técnica e transformando essa experiência analítica em soluções de software.
