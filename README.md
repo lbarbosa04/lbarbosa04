@@ -3,7 +3,7 @@
 Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvimento de Software**.
 Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estudando **JavaScript**, **C**, **SQL** e **Node.js**, aplicando na prática tudo que aprendo através de projetos que unem minha vivência na área fiscal com lógica de programação.
 - 🔭 Atualmente estudando lógica de programação, estruturas de dados e desenvolvimento web
-- 💼 Trabalho hoje como Analista Fiscal, com experiência em automação de processos e uso de ERP
+- 💼 Trabalho hoje como Analista Fiscal, mas em busca da primeira oportunidade na área de tecnologia 
 - 🌱 Aprendendo JavaScript, C, SQL e Node.js
 - 🎯 Buscando oportunidades como Desenvolvedor Júnior, Estagiário de Desenvolvimento ou posições correlatas
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-barbosa-177a112a9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
