@@ -17,9 +17,6 @@ Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estuda
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-## 📌 Projetos em destaque
-### 🧮 [Calculadora de Impostos](https://github.com/lbarbosa04/calculadoraDeImpostos)
-Aplicações web para simulação de cálculo de impostos nos regimes de **Lucro Real** e **Lucro Presumido**, desenvolvidas com HTML, CSS e JavaScript puro — unindo conhecimento técnico da área fiscal com lógica de programação.
 ## 💡 Um pouco da minha trajetória
 Passei os últimos anos apurando impostos, lidando com prazos, ERP e planilhas de conferência — e percebi que o que mais gostava no trabalho era resolver problemas e otimizar processos. Isso me levou naturalmente para a programação: hoje estou construindo minha base técnica e transformando essa experiência analítica em soluções de software.
 ---
