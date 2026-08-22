@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvimento de Software**.
 Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estudando **JavaScript**, **C**, **SQL** e **Node.js**, aplicando na prática tudo que aprendo através de projetos que unem minha vivência na área fiscal com lógica de programação.
-- 🔭 Atualmente estudando lógica de programação, estruturas de dados e desenvolvimento web
+- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — 1º semestre (previsão de conclusão: dezembro/2028)
 - 💼 Atualmente trabalho como Analista Fiscal com atuação em análise de dados, regras de negócio e automação de processos. 
 - 🌱 Aprendendo JavaScript, C, SQL e Node.js
 - 🎯 Buscando oportunidades como Desenvolvedor Júnior, Estagiário de Desenvolvimento ou posições correlatas
