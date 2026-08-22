@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Barbosa 👋
+## Olá, eu sou o Lucas 👋
 
 ## 🚀 Sobre mim
 
