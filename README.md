@@ -10,7 +10,7 @@ Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estuda
 - 🎯 Buscando oportunidades como Desenvolvedor Júnior, Estagiário de Desenvolvimento ou posições correlatas
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-barbosa-177a112a9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - ☎️ (85) 9 9741-6223
-- 
+
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,5 +27,3 @@ Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estuda
 
 ## 💡 Um pouco da minha trajetória
 Passei os últimos anos apurando impostos, lidando com prazos, ERP e planilhas de conferência — e percebi que o que mais gostava no trabalho era resolver problemas e otimizar processos. Isso me levou naturalmente para a programação: hoje estou construindo minha base técnica e transformando essa experiência analítica em soluções de software.
----
-⭐️ De [lbarbosa04](https://github.com/lbarbosa04)
