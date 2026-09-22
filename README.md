@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvedor Full Stack**.
-Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estudando **JavaScript**, **C**, **SQL** e **Node.js**, aplicando na prática tudo que aprendo através de projetos que unem minha vivência na área fiscal com lógica de programação.
+Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estudando **JavaScript**, **C**, **SQL** e **Node.js**, aplicando na prática tudo que aprendo através de projetos pessoais.
 
 - 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — 1º semestre (previsão de conclusão: dezembro/2028)
 - 💼 Atualmente trabalho como Analista Fiscal com atuação em análise de dados, regras de negócio e automação de processos. 
@@ -26,4 +26,4 @@ Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estuda
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 💡 Um pouco da minha trajetória
-Passei os últimos anos apurando impostos, lidando com prazos, ERP e planilhas de conferência — e percebi que o que mais gostava no trabalho era resolver problemas e otimizar processos. Isso me levou naturalmente para a programação: hoje estou construindo minha base técnica e transformando essa experiência analítica em soluções de software.
+Passei os últimos anos apurando impostos, lidando com prazos, ERP e planilhas de conferência, e percebi que o que mais gostava no trabalho era resolver problemas e otimizar processos. Isso me levou naturalmente para a programação: hoje estou construindo minha base técnica, aplicando a mesma disciplina e raciocínio lógico que desenvolvi na área fiscal em um novo caminho como desenvolvedor
