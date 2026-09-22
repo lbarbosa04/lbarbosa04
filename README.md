@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas 👋
 
 ## 🚀 Sobre mim
-Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvimento de Software**.
+Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvedor Full Stack**.
 Estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** e estudando **JavaScript**, **C**, **SQL** e **Node.js**, aplicando na prática tudo que aprendo através de projetos que unem minha vivência na área fiscal com lógica de programação.
 
 - 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — 1º semestre (previsão de conclusão: dezembro/2028)
