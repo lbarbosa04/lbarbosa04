@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou%3B+Lucas+de+Sousa+Barbosa+%F0%9F%91%8B)
 
 ## 🚀 Sobre mim
 Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvedor Full Stack**.
