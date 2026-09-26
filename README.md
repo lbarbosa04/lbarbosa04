@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Lucas+de+Sousa+Barbosa)
+<h1 align="center">Lucas de Sousa Barbosa</h1>
 
 ## 🚀 Sobre mim
 Analista Fiscal com 5+ anos de experiência em apuração de impostos, conciliação tributária e obrigações acessórias, atualmente em transição de carreira para **Desenvolvedor Full Stack**.
